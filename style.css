@@ -187,3 +187,8 @@ footer{
     padding: 2rem;
     text-align: center;
 }
+
+button:hover{
+    background-color: #e5e7eb;
+    color: black;
+}
