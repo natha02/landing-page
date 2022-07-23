@@ -179,3 +179,11 @@ button {
 .content-container button{
     border:1px solid white;
 }
+
+/*============footer============*/
+footer{
+    background-color: #1f2937;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
