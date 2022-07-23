@@ -144,3 +144,38 @@ button {
     right: 0;
 }
 
+/*============section-3============*/
+#section-3{
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#section-3_container{
+    width: 1000px;
+    margin: auto;
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: white;
+}
+
+.content-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 8rem 2rem 8rem;
+    align-items: center;
+}
+
+.head-text{
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.second-text{
+    color: #e5e7eb;
+}
+
+.content-container button{
+    border:1px solid white;
+}
